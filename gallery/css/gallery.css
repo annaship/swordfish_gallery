@@ -1,0 +1,78 @@
+@CHARSET "US-ASCII";
+body 
+{
+	font-size: large;
+
+}
+
+.main-div
+{
+}
+
+.header
+{
+	font-family: Lucida Calligraphy;
+	text-align: center;	
+}
+
+.page-title
+{
+	font-size: 225%; 
+	color: #80a;
+}
+
+.odd-link
+{
+	color: #ff9933; 	
+}
+
+.menu
+{
+	text-align: center;
+	margin-top: 30px; 
+	margin-bottom: 20px;
+	color: #80a;
+}
+
+.menu .menu-item
+{
+	padding-right: 2em;
+}
+
+.menu .menu-item-last
+{
+	padding-right: 0em;
+}
+
+
+#gallery-icons
+{
+	color: #963;
+	font-family: Arial;
+	/* text-align: center; */
+}
+
+.message
+{
+	text-align: center;
+	color: #996633;
+}
+
+.link_row
+{
+	text-align: center;
+	margin-top: 2ex; 
+	margin-bottom: 2ex;	
+}
+
+.link_row a
+{
+	margin-top: 2ex; 
+	margin-bottom: 0.5ex;
+}
+
+.link-label
+{
+	/* text-align: center; */
+	margin-bottom: 1ex;
+}
