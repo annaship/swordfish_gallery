@@ -3,54 +3,45 @@
 	$title = "Videos of the dances that are in our repertoir";
 	include("header.php");
 ?>
-<hr/>
 
-<!-- <title>Videos of the dances that are in our repertoir</title> -->
+<!--         <div class="menu container_12"> -->
+	        
 
-"Vineyard Swordfish Signature Dances"
-(Happy Jack)   (Woods'le)
-"Traditional Dances"
-(Sowerby)  (Helmsley)  (Bampton Weavers)
+<!-- "Vineyard Swordfish Signature Dances" -->
+<!-- (Happy Jack)   (Woods'le) -->
+<!-- "Traditional Dances" -->
+<!-- (Sowerby)  (Helmsley)  (Bampton Weavers) -->
 
+<div class="grid_6">
+<h2>Traditional Dances</h2>
 
-Sowerby (single set inside)  2007 Half Moon Sword Ale  NY   David Macemon
+<p><a href="https://www.youtube.com/watch?v=sVzSEkCXptU" target="_blank">Sowerby (single set inside)  2007 Half Moon Sword Ale  NY (David Macemon)</a></p>
 
-https://www.youtube.com/watch?v=sVzSEkCXptU
+<p><a href="https://www.youtube.com/watch?v=X9wrVIMaUO8" target="_blank">Sowerby (double set street)  2011 Marlboro Ale  Brattleboro</a></p>
 
-
-Sowerby (double set street)  2011 Marlboro Ale  Brattleboro
-
-https://www.youtube.com/watch?v=X9wrVIMaUO8
-
-
-Woods'le  2014 Half Moon Sword Ale  NY  Jeffrey Bary
-
-https://www.youtube.com/watch?v=0iXcDvVZk5g
+<p><a href="https://www.youtube.com/watch?v=ptuqdetoO9c" target="_blank">Bampton Weavers</a>
+</p>
 
 
-Happy Jack  2014 Half Moon Sword Ale  NY   Jeffrey Bary
+<p><a href="https://www.youtube.com/watch?v=UFz-5A5ZTtU" target="_blank">Sowerby at Highfield</a></p>
+</div>
 
-https://www.youtube.com/watch?v=svuezmGTFFE
+<div class="grid_6">
+<h2>Vineyard Swordfish Signature Dances</h2>
 
-???
-old Bampton from our private pages
+<p><a href="https://www.youtube.com/watch?v=0iXcDvVZk5g" target="_blank">Woods'le  2014 Half Moon Sword Ale  NY (Jeffrey Bary)</a></p>
 
-http://www.vineyardswordfish.org/pics/bampton.avi
+<p><a href="https://www.youtube.com/watch?v=svuezmGTFFE" target="_blank">Happy Jack  2014 Half Moon Sword Ale  NY (Jeffrey Bary)</a></p>
 
+<p><a href="https://www.youtube.com/watch?v=lojxXhKGFv4" target="_blank">Happy Jack (Youtube posting of David F.)</a></p>
 
-Sowerby at Highfield
-
-https://www.youtube.com/watch?v=UFz-5A5ZTtU
-
-
-Youtube posting of David F. Happy Jack .AVI
-
-https://www.youtube.com/watch?v=lojxXhKGFv4
+</div>
 
 
-Solstice sun & VSF T shirts
 
-http://mvyradio.spreadshirt.com/vineyard-swordfish-A12576185
+
+
+<!-- <p><a href="http://mvyradio.spreadshirt.com/vineyard-swordfish-A12576185" target="_blank">Solstice sun & VSF T shirts</a></p> -->
 
 
 </body>
