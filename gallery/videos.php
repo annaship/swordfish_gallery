@@ -12,29 +12,46 @@
 <!-- "Traditional Dances" -->
 <!-- (Sowerby)  (Helmsley)  (Bampton Weavers) -->
 
-<div class="grid_6">
-<h2>Traditional Dances</h2>
+<h1>Links to videos</h1>
+<div id="video-link">
+  <div class="grid_6">
+  
+  <h2>Traditional Dances</h2>
 
-<p><a href="https://www.youtube.com/watch?v=sVzSEkCXptU" target="_blank">Sowerby (single set inside)  2007 Half Moon Sword Ale  NY (David Macemon)</a></p>
+  <p><a href="https://www.youtube.com/watch?v=X9wrVIMaUO8" target="_blank">Sowerby
+    <br/>
+    <img src="video_thmbn/sowerby2011_thn.jpg">
+    </a></p>
 
-<p><a href="https://www.youtube.com/watch?v=X9wrVIMaUO8" target="_blank">Sowerby (double set street)  2011 Marlboro Ale  Brattleboro</a></p>
+  <p><a href="sowerby.php" target="_blank">All videos of Sowerby
+    </a></p>
 
-<p><a href="https://www.youtube.com/watch?v=ptuqdetoO9c" target="_blank">Bampton Weavers</a>
-</p>
+  <p><a href="https://www.youtube.com/watch?v=ptuqdetoO9c" target="_blank">Bampton Weavers
+    <br/>
+    <img src="video_thmbn/bampton_thn.jpg">
+    </a>
+  </p>
 
+  </div>
 
-<p><a href="https://www.youtube.com/watch?v=UFz-5A5ZTtU" target="_blank">Sowerby at Highfield</a></p>
-</div>
+  <div class="grid_6">
+  <h2>Vineyard Swordfish Signature Dances</h2>
 
-<div class="grid_6">
-<h2>Vineyard Swordfish Signature Dances</h2>
+  <p><a href="https://www.youtube.com/watch?v=0iXcDvVZk5g" target="_blank">Woods'le
+    <!--   2014 Half Moon Sword Ale  NY (posting of Jeffrey Bary) -->
+    <br/>
+    <img src="video_thmbn/Woodsle_thn.jpg">
+    </a></p>
 
-<p><a href="https://www.youtube.com/watch?v=0iXcDvVZk5g" target="_blank">Woods'le  2014 Half Moon Sword Ale  NY (Jeffrey Bary)</a></p>
+  <p><a href="https://www.youtube.com/watch?v=svuezmGTFFE" target="_blank">Happy Jack
+    <br/>
+    <img src="video_thmbn/Happy_Jack_2014_thn.jpg">
+    </a></p>
+    
+    <p><a href="happy_jack.php" target="_blank">All videos of Happy Jack
+      </a></p>
 
-<p><a href="https://www.youtube.com/watch?v=svuezmGTFFE" target="_blank">Happy Jack  2014 Half Moon Sword Ale  NY (Jeffrey Bary)</a></p>
-
-<p><a href="https://www.youtube.com/watch?v=lojxXhKGFv4" target="_blank">Happy Jack (Youtube posting of David F.)</a></p>
-
+  </div>
 </div>
 
 
