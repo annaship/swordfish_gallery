@@ -8,7 +8,7 @@
 
 <h1>Links to videos</h1>
 
-<h2>Traditional Dances&nbsp;&mdash; Happy Jack</h2>
+<h2>Vineyard Swordfish Signature Dances&nbsp;&mdash; Happy Jack</h2>
 
   <div id="video-link">
     <p><a href="https://www.youtube.com/watch?v=svuezmGTFFE" target="_blank">Happy Jack  2014 Half Moon Sword Ale  NY (posting of Jeffrey Bary)
