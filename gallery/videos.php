@@ -1,6 +1,6 @@
 <?php
 	global $title;
-	$title = "Videos of the dances that are in our repertoir";
+	$title = "Videos of the dances in our repertoire";
 	include("header.php");
 ?>
 
