@@ -31,25 +31,36 @@
     <img src="video_thmbn/bampton_thn.jpg">
     </a>
   </p>
+  
+  <p><a href="bampton.php" target="_blank">All videos of Bampton Weavers
+    </a></p>
 
+  <p><a href="https://www.youtube.com/watch?v=mjwN7zlJWGQ" target="_blank">Helmsley
+    <br/>
+    <img src="video_thmbn/helmsley_thn.jpg">
+    </a>
+  </p>
+
+<!--  <p><a href="helmsley.php" target="_blank">Helmsley</a></p> -->
+  
   </div>
 
   <div class="grid_6">
   <h2>Vineyard Swordfish Signature Dances</h2>
 
   <p><a href="https://www.youtube.com/watch?v=0iXcDvVZk5g" target="_blank">Woods'le
-    <!--   2014 Half Moon Sword Ale  NY (posting of Jeffrey Bary) -->
     <br/>
     <img src="video_thmbn/Woodsle_thn.jpg">
     </a></p>
+
+    <p><a href="woodsle.php" target="_blank">All videos of Woods'le</a></p>
 
   <p><a href="https://www.youtube.com/watch?v=svuezmGTFFE" target="_blank">Happy Jack
     <br/>
     <img src="video_thmbn/Happy_Jack_2014_thn.jpg">
     </a></p>
     
-    <p><a href="happy_jack.php" target="_blank">All videos of Happy Jack
-      </a></p>
+    <p><a href="happy_jack.php" target="_blank">All videos of Happy Jack</a></p>
 
   </div>
 </div>
